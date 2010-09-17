@@ -21,7 +21,7 @@ public class RationalTest3 {
     RationalTest2.divTester();
     divTester();
     BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-    System.out.println("Skriv uttryck på formen a/b ? c/d, där ? är något av tecknen + - * / = <");
+    System.out.println("Skriv uttryck pÃ¥ formen a/b ? c/d, dÃ¤r ? Ã¤r nÃ¥got av tecknen + - * / = <");
     while (true) {
       System.out.print("> ");  System.out.flush();
       String s = in.readLine();

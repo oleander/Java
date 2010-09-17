@@ -8,7 +8,7 @@ public class RationalTest2 {
   public static void divTester() {
     Rational r = new Rational();
 
-/*
+
     // test av set
     r.set(9);
     if (r.getNumerator() != 9 || r.getDenominator() != 1)
@@ -23,7 +23,7 @@ public class RationalTest2 {
     r2.set(r);
     if (r2.getNumerator() != 7 || r2.getDenominator() != 24)
       fel(4);
-*/
+
     // test av konstruktorer
     Rational x = new Rational();
     if (x.getNumerator() != 0 || x.getDenominator() != 1)
@@ -41,7 +41,7 @@ public class RationalTest2 {
     if (q.getNumerator() != 5 || q.getDenominator() != 1)
       fel(9);
 
-/*
+
     // test av negativa parametrar
     r.set(-49, 168);
     if (r.getNumerator() != -7 || r.getDenominator() != 24)
@@ -52,7 +52,7 @@ public class RationalTest2 {
     r.set(-49, -168);
     if (r.getNumerator() != 7 || r.getDenominator() != 24)
       fel(12);
-*/
+
   }
 
   public static void main(String[] arg) {

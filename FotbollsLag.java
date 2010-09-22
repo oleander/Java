@@ -130,7 +130,7 @@ class FotbollsLag implements Comparable<FotbollsLag>{
     
   }
   
-  /* Retunerar en sträng-version av klassen på formen
+  /* returnerar en sträng-version av klassen på formen
      Kalmar FF	16	11	2	3	37-16	35
   */
   public String toString(){
@@ -144,7 +144,7 @@ class FotbollsLag implements Comparable<FotbollsLag>{
     Integer.toString(this.points);
   }
   
-  /* Retunerar differensen mellan antalet gjorda mål och antalet insläppta */
+  /* returnerar differensen mellan antalet gjorda mål och antalet insläppta */
   public int getDiff(){
     return this.done - this.let;
   }
@@ -182,9 +182,9 @@ class FotbollsLag implements Comparable<FotbollsLag>{
   }
   
   /* Jämför nuvarande laget med ingående paramter 
-    Retunerar 1 om det nuvranade laget är bättre 
-    Retunerar 0 om om båda lagen är lika
-    Retunerar -1 om det nuvarande laget är sämmre
+    returnerar 1 om det nuvarande laget är bättre 
+    returnerar 0 om om båda lagen är lika
+    returnerar -1 om det nuvarande laget är sämmre
   */
   
   public int compareTo(FotbollsLag other){

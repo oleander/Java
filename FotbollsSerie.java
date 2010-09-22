@@ -12,7 +12,7 @@ class FotbollsSerie {
   private ArrayList<FotbollsLag> teams;
   
   public static void main(String [] args){
-    String team_name = "The rails super team";
+    String seriesName = "Allsvenskan";
     String t1 = "Lag1";
     String t2 = "Lag2";
     
@@ -29,7 +29,7 @@ class FotbollsSerie {
     t.add(t1);
     t.add(t2);
     
-    FotbollsSerie serie = new FotbollsSerie(team_name, t);
+    FotbollsSerie serie = new FotbollsSerie(seriesName, t);
     
     /* Kontrollerar att laget vi nyss stoppade in verkligen finns */
     if(!serie.getLag(t1).equals(team1)){
@@ -37,7 +37,7 @@ class FotbollsSerie {
       System.exit(1);
     }
     
-    /* Gör samma som ova, fast för lag 2 */
+    /* Gör samma som ovan, fast för lag 2 */
     if(!serie.getLag(t2).equals(team2)){
       System.err.println("Error 2");
       System.exit(1);
@@ -80,11 +80,12 @@ class FotbollsSerie {
       System.exit(1);
     }
     
-    /* Här bör vi då finnas lag ett */
+    /* Här bör vi då finna lag ett */
     if(!(s[2].indexOf(t1) >= 0)){
       System.err.println("Error 7");
       System.exit(1);
     }
+    
   }
   
   public FotbollsSerie(String name, ArrayList<String> teams){
@@ -179,7 +180,21 @@ class FotbollsSerie {
   
   /* Sorterar listan med lag efter antalet poäng (bl.a) */
   public void sortTabell(){
-    Collections.sort(this.teams, Collections.reverseOrder());
+    FotbollsLag buffer;
+    int max = teams.size() - 1;
+    boolean swapped;
+    do {
+      swapped = false;
+      for (int i = 0; i < max; i++) {
+        if (teams.get(i+1).compareTo(teams.get(i)) == 1) {
+          buffer = teams.get(i+1);
+          teams.set(i+1, teams.get(i));
+          teams.set(i, buffer);
+          swapped = true;
+        }
+      } 
+    } while (swapped);
+    
   }
   
   /* En sträng-representation av alla fotbollslag i serien */

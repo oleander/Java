@@ -17,7 +17,7 @@ public class Test {
     FotbollsLag team = new FotbollsLag(team_name, players);
     FotbollsLag team2 = new FotbollsLag(team_name, players + players);
     
-    /* Retuneras samma namn som stoppades in ? */
+    /* returneras samma namn som stoppades in ? */
     if(!team_name.equals(team.getName())){
       System.err.println("Error 1");
       System.exit(1);
@@ -35,7 +35,7 @@ public class Test {
       System.exit(1);
     }
     
-    /* Ska genrera vinst då laget har gjort 10 mål och släppt in 5 */
+    /* Ska generera vinst då laget har gjort 10 mål och släppt in 5 */
     team.registreraMatch(got,let);
     team2.registreraMatch(let, got);
     

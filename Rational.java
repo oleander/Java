@@ -146,7 +146,7 @@ public class Rational{
     return ret[0] == ret[1];
   }
   
-  /* Retunerar en lista med Rationals som har samma bas */
+  /* Returnerar en lista med Rationals som har samma bas */
   public int[] same(Rational b){
     int[] ret = new int[2];
     

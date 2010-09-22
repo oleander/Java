@@ -10,9 +10,9 @@ public class RationalTest1 {
       r = a % b;
     }
 
-    System.out.print("Talen är " + m + " och " + n +
+    System.out.print("Talen Ã¤r " + m + " och " + n +
                      ".\tDitt resultat: " + z +
-                     ".\tRätt resultat: " + b + ".");
+                     ".\tRÃ¤tt resultat: " + b + ".");
     if (z != b)
       System.out.println("  *************");
     else

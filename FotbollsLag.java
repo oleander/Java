@@ -17,13 +17,21 @@ class FotbollsLag implements Comparable<FotbollsLag>{
   /* Antalet gjorda mål resp. antalet insläppta mål 
      Te.x 10-20, där 10 är antalet gjorda mål och 20 antalet insläppta
   */
-  private String goals;
+  private int let;
+  
+  private int done;
   
   /* Antalet oavgjorda matcher */
   private int draws;
   
   /* Antalet poäng */
   private int points;
+  
+  public FotbollsLag(String team){
+    
+    /* Om inga spelare har angivits så sätter vi antalet spelare i laget till 11 */
+    this(team, 11);
+  }
   
   public FotbollsLag(String team, int players){
     this.team    = team;
@@ -33,34 +41,22 @@ class FotbollsLag implements Comparable<FotbollsLag>{
     this.points  = 0;
     this.matches = 0;
     this.draws   = 0;
-    this.goals   = "0-0";
     
     /* Sätter antalet mål som gjorts och antalet som släppts in */
     this.setGoals(0,0);
   }
   
-  /* Sätter antalet gjorda mål resp. antalet insläppta mål */
-  public void setGoals(int first, int last){
-    
-    /* Hämtar nuvarande insläppta och gjorda mål */
-    int[] current = this.getGoals();
-    
-    /* Adderas ingående värde på de nuvarande värdet, sparar sedan undran resultatet */
-    String goals = Integer.toString(first + current[0]) + "-" + Integer.toString(last + current[1]);
-    
-    this.goals = goals;
+  public String getGoals(){
+    return Integer.toString(this.done) + "-" + Integer.toString(this.let);
   }
   
-  public int [] getGoals(){
-    String[] tmp = this.goals.split("-");
-    int[] x = new int[8];
-    int a;
-    int b;
-    a = Integer.valueOf(tmp[0]);
-    b = Integer.valueOf(tmp[1]);
-    x[0] = a;
-    x[1] = b;
-    return x;
+  /* Sätter antalet gjorda mål resp. antalet insläppta mål */
+  public void setGoals(int first, int last){    
+    /* Gjorda mål */
+    this.done += first;
+    
+    /* Insläppta mål */
+    this.let += last;
   }
   
   public int getPoints(){
@@ -93,14 +89,12 @@ class FotbollsLag implements Comparable<FotbollsLag>{
   
   /* Antalet gjorda mål */
   public int getDoneGoals(){
-    int[] tmp = this.getGoals();
-    return tmp[0];
+    return this.done;
   }
   
   /* Antalet insäppta mål */
   public int getLetGoals(){
-    int[] tmp = this.getGoals();
-    return tmp[1];
+    return this.let;
   }
   
   /* Ger laget ett viss antalet poäng beroende på vad som gjorts 
@@ -146,13 +140,13 @@ class FotbollsLag implements Comparable<FotbollsLag>{
     Integer.toString(this.wins) + " " + 
     Integer.toString(this.draws) + " " + 
     Integer.toString(this.losses) + " " + 
-    this.goals + " " + 
+    this.getGoals() + " " + 
     Integer.toString(this.points);
   }
   
   /* Retunerar differensen mellan antalet gjorda mål och antalet insläppta */
   public int getDiff(){
-    return this.getDoneGoals() - this.getLetGoals();
+    return this.done - this.let;
   }
   
   /* Kolla om det nuvarande laget är bättre än det ingånede i form av poäng */
@@ -167,9 +161,9 @@ class FotbollsLag implements Comparable<FotbollsLag>{
   }
   
   private int betterThanGoals(FotbollsLag other){
-    if(this.getDoneGoals() < other.getDoneGoals()){
+    if(this.getDoneGoals() > other.getDoneGoals()){
       return 1;
-    } else if(this.getDoneGoals() > other.getDoneGoals()){
+    } else if(this.getDoneGoals() < other.getDoneGoals()){
       return -1;
     }
     
@@ -206,6 +200,10 @@ class FotbollsLag implements Comparable<FotbollsLag>{
     return this.betterThanGoals(other);
   }
   
+  /* Kollar om den nuvarande objektet är:
+        Av samma sort som ingående
+        Kontrollerar så att dom pekar på samma värde
+  */
   public boolean equals(Object o){
     if(o instanceof FotbollsLag){
       FotbollsLag f = (FotbollsLag) o;

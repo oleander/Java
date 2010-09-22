@@ -1,3 +1,4 @@
+/* Testar FotbollsLag-klassen */
 public class Test {
 
   public static void main(String[] args){
@@ -96,10 +97,11 @@ public class Test {
     }
     
     /* Kontrollerar så att strängen som toString genererar är samma som om vi själva skulle plockat ut värden m.h.a get-metoderna */
-    int[] goals = team2.getGoals();
-    if(team2.toString().equals(team_name + " " + Integer.toString(players) + " " + Integer.toString(team2.getMatches()) + " " + Integer.toString(team2.getWins()) + " " + Integer.toString(team2.getDraws()) + " " + Integer.toString(team2.getLosses()) + " " + Integer.toString(goals[0]) + "-" + Integer.toString(goals[1]) + " " + Integer.toString(team2.getPoints()))){
+    if(team2.toString().equals(team_name + " " + Integer.toString(players) + " " + Integer.toString(team2.getMatches()) + " " + Integer.toString(team2.getWins()) + " " + Integer.toString(team2.getDraws()) + " " + Integer.toString(team2.getLosses()) + " " + team2.getGoals() + " " + Integer.toString(team2.getPoints()))){
       System.err.println("Error 15");
       System.exit(1);
     }
+    
+    System.out.println("OK!");
   }
 }

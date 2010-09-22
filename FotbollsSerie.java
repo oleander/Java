@@ -24,21 +24,21 @@ class FotbollsSerie {
     FotbollsLag team1 = new FotbollsLag(t1, 10);
     FotbollsLag team2 = new FotbollsLag(t2, 20);
     
-    ArrayList<FotbollsLag> fbl = new ArrayList<FotbollsLag>();
+    /* Skapar en lista på namnen med lagen */
+    ArrayList<String> t = new ArrayList<String>();
+    t.add(t1);
+    t.add(t2);
     
-    fbl.add(team2);
-    fbl.add(team1);
-    
-    FotbollsSerie serie = new FotbollsSerie(team_name, fbl);
+    FotbollsSerie serie = new FotbollsSerie(team_name, t);
     
     /* Kontrollerar att laget vi nyss stoppade in verkligen finns */
-    if(serie.getLag(t1) != team1){
+    if(!serie.getLag(t1).equals(team1)){
       System.err.println("Error 1");
       System.exit(1);
     }
     
     /* Gör samma som ova, fast för lag 2 */
-    if(serie.getLag(t2) != team2){
+    if(!serie.getLag(t2).equals(team2)){
       System.err.println("Error 2");
       System.exit(1);
     }
@@ -87,16 +87,20 @@ class FotbollsSerie {
     }
   }
   
-  public FotbollsSerie(String name, ArrayList<FotbollsLag> teams){
+  public FotbollsSerie(String name, ArrayList<String> teams){
+    this.teams = new ArrayList<FotbollsLag>();
+    for(String team : teams){
+      this.teams.add(new FotbollsLag(team, 10));
+    }
+    
     this.name  = name;
-    this.teams = teams;
   }
   
   /* Hämtar angivet lag ur listan av lag */
   public FotbollsLag getLag(String name){
     
-    /* Letar igenom hela listan med lag, hittas något så retuneras laget
-       Annars retuneras null
+    /* Letar igenom hela listan med lag, hittas något så returneras laget
+       Annars returneras null
     */
    
     for(FotbollsLag team : this.teams){
@@ -109,7 +113,7 @@ class FotbollsSerie {
   }
   
   /* Anger poängställningen mellan två lag 
-     Vi börjar med att leta upp lagen, finns inte båda så retuneras false, annars true
+     Vi börjar med att leta upp lagen, finns inte båda så returneras false, annars true
      Hittas lagen så uppdateras deras poängställning 
   */
   public boolean registreraMatch(String name1, String name2, int goals1, int goals2){
@@ -133,27 +137,44 @@ class FotbollsSerie {
      Rails Team;Rails Team2 0;5 
      med godstyckligt antal mellanslag */
   public void readResult(){
-    String input   = JOptionPane.showInputDialog(null, "Enter your team");
+    
+    /* Läser in ett värde från dialogrutan */
+    String input   = JOptionPane.showInputDialog(null, "Enter your match:");
+    
+    /* Matchar ut inläst värde */
     Pattern p      = Pattern.compile("^\\s?(.+)\\s?[-|;]\\s?(.+)\\s(\\d+)[-|;](\\d+)\\s?$");
     Matcher m      = p.matcher(input);
+    
     String team1   = null;
     String team2   = null;
     int value1     = 0;
     int value2     = 0;
     boolean result = false;
-     while (m.find()){       
-       team1  = m.group(1);
-       team2  = m.group(2);
-       value1 = Integer.valueOf(m.group(3));
-       value2 = Integer.valueOf(m.group(4));
-       result = this.registreraMatch(team1, team2, value1, value2);
-     }
-     
-     if(result){
-       JOptionPane.showMessageDialog(null, "Done");
-     } else{
-       JOptionPane.showMessageDialog(null, "No match");
-     }
+    
+    /* Hittades något ?*/
+    if (m.find()){
+      
+      /* Plockar ut team 1 (te.x Rails Team)*/   
+      team1  = m.group(1);
+      
+      /* Plockar ut andra teamet (te.x Rails Team2)*/
+      team2  = m.group(2);
+      
+      /* Hämtar integer-representationen av ingående värde
+         Där value1 och value2 är 0 och 5 enligt exemplet ovan */
+      value1 = Integer.valueOf(m.group(3));
+      value2 = Integer.valueOf(m.group(4));
+      
+      /* Registerar matchen */
+      result = this.registreraMatch(team1, team2, value1, value2);
+    }
+    
+    /* Om de matchade lagen hittades, annars så visas no match*/
+    if(result){
+      JOptionPane.showMessageDialog(null, "Done");
+    } else{
+      JOptionPane.showMessageDialog(null, "No match");
+    }
   }
   
   /* Sorterar listan med lag efter antalet poäng (bl.a) */
@@ -161,6 +182,7 @@ class FotbollsSerie {
     Collections.sort(this.teams, Collections.reverseOrder());
   }
   
+  /* En sträng-representation av alla fotbollslag i serien */
   public String toString(){
     String r = "";
     

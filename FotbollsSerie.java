@@ -86,6 +86,14 @@ class FotbollsSerie {
       System.exit(1);
     }
     
+    // test 4 - a test of read result - prints the current status of the series so that user can check it,
+    // prompts for further tests
+    do {
+        serie.readResult();
+        System.out.println(serie.toString());
+        System.out.println("");
+      } while (JOptionPane.showConfirmDialog(null, "Would you like to perform another test?\n") == JOptionPane.YES_OPTION);
+    
   }
   
   public FotbollsSerie(String name, ArrayList<String> teams){

@@ -1,0 +1,1862 @@
+
+<!-- ProfileV1 NH-->
+<html xmlns:myspace="http://x.myspacecdn.com/modules/sitesearch/static/rdf/profileschema.rdf#">
+<!-- UserViewProfile -->
+<head><title>
+	The Long Blondes på MySpace Music – Lyssna gratis på Musik, kolla in bilder och musikvideos
+</title><meta name="keywords" content="kompisar skapa nätverk dela bilder hitta vänner bloggar dagböcker blogga skriva dagbok band musik rangordna bilder gå med i grupper forum annonser socialt nätverk på webben" /><meta property="myspace:profileType" content="Music" about="The Long Blondes" typeof="myspace:MusicProfile" ><meta name="description" content="MySpace Musik-profil f&#246;r The Long Blondes. H&#228;mta The Long Blondes New Wave /  / Pop-musiksinglar, titta p&#229; musikvideos, lyssna gratis p&#229; MP3-filer och l&#228;s The Long Blondess blogg." /><meta http-equiv="expires" content="0" /><meta http-equiv="Pragma" content="no-cache" />
+	
+<link rel="alternate" type="application/atom+xml" title="thelongblondes - Stream Atom" href="http://www.myspace.com/thelongblondes/stream/atom.xml" /><link rel="canonical" href="http://www.myspace.com/thelongblondes" />
+<link rel="stylesheet" type="text/css" href="http://x.myspacecdn.com/modules/common/static/css/global_-cca62xx.css" />
+<link rel="stylesheet" type="text/css" href="http://x.myspacecdn.com/modules/profiles/static/css/profilelegacy_pmdmnaue.css" />
+<link rel="openid2.provider" type="application/x-openid-kvf" href="http://api.myspace.com/openid" />
+<link rel="stylesheet" type="text/css" href="http://x.myspacecdn.com/modules/profiles/static/css/music_iq9qbeco.css" />
+
+<style type="text/css">
+
+
+.commentlinks a { font-weight:normal; font-size:9px; }
+
+
+td.columnsWidening, td.columnsWidening img, td.columnsWidening object { max-width:260px; word-wrap: break-word; }
+
+
+</style>
+<!--[if lte IE 7]>
+<style type="text/css">
+td.columnsWidening img, td.columnsWidening object { width: expression(this.width > 260 ? 260 : true); }
+</style>
+<![endif]-->
+</head>
+<body class="profileV1 bodyContent">	
+	
+	
+		
+		    <!-- BOH Profiles -->
+<script type="text/javascript"></script><div id="headerWrap"><div id="header" class="clearfix profileWidth"><table cellspacing="0" cellpadding="0" border="0" width="100%" id="headerTable"><tr><td bgcolor="#2358b8"><div id="leaderboard" class="clearfix "><!-- Google: 492 -->
+<div id="header_gae"><div class="display_ad"><script type="text/javascript">
+google_ad_slot = "6686702282";
+google_ad_height = 90;
+google_ed = "::0:0:NDhmZTMxMzAxN2UxMzFlMZ8KyIT0mhJWklY36r1bNlBZm33INGUOpRNPGZT3RrGSmgHsLWNs3c4EyiWfEyATI8CZNCSHwfpbcZou79PhFQ3hh-g_GejzJcisg-OFxZu9EhbeqoIBzJE";
+google_ad_width = 728;
+google_ad_client = "ca-pub-8650603172231891";
+</script>
+<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></div>
+</div></div></td></tr><tr><td bgcolor="#2358b8"><div id="googlebar" class="clearfix"><div id="logo" class="profile"><h1 class="mslogo"><a id="mshomelink" href="http://www.myspace.com" title="MySpace" style="background-image:url(http://cms.myspacecdn.com/cms/Headerlogo/header_ms.png
+);"><strong>MySpace</strong>&nbsp;<em>a place for friends</em></a></h1></div>
+<div id="searchContainer_Header" class="global"><form id="formSearch_Header" name="srch_Header" onsubmit="return msglobalnav.srchSubmit('search_q_Header')" action="http://searchservice.myspace.com/index.cfm?" method="get"><input type="hidden" id="fuseaction_Header" name="fuseaction" value="sitesearch.results" /><input type="hidden" id="orig_search_Header" name="orig" value="search_Header" /><input type="hidden" id="origpfc_search_Header" name="origpfc" value="UserViewProfile" /><input type="hidden" id="search_t_Header" name="type" value="Music" /><div class="srchfieldLayer"><div><div><input name="qry" id="search_q_Header" maxlength="100" class="srchTextfld" type="text" value="" title="Hitta din fav.artist, -låt eller -album" /><div id="srchMenuContainer"><span class="loc2"><a id="searchTypeValue_Header" style="text-decoration:none !important;" onclick="msglobalnav.openSearchTypes('Header');" onmouseout="msglobalnav.hideSearchTypes('Header');">Musik<small>&#9660;</small></a></span><div id="srchMenuListBox_Header" onmouseover="msglobalnav.srchMenuList(true,'Header');" onmouseout="msglobalnav.srchMenuList(false,'Header');"><ul><li><a id="People_Header" href="javascript:msglobalnav.switchSearchTypeTo('People','Header')">Personer</a></li><li><a id="AllMySpace_Header" href="javascript:msglobalnav.switchSearchTypeTo('AllMySpace','Header')">MySpace</a></li><li><a id="Web_Header" href="javascript:msglobalnav.switchSearchTypeTo('Web','Header')">Webben</a></li><li><a id="Music_Header" href="javascript:msglobalnav.switchSearchTypeTo('Music','Header')">Musik</a></li><li><a id="MySpaceTV_Header" href="javascript:msglobalnav.switchSearchTypeTo('MySpaceTV','Header')">Video</a></li><li><a id="Images_Header" href="javascript:msglobalnav.switchSearchTypeTo('Images','Header')">Bilder</a></li><li><a id="Games_Header" href="javascript:msglobalnav.switchSearchTypeTo('Games','Header')">Spel</a></li></ul></div></div></div></div></div><div class="srchButton"><div><input type="submit" name="submit" value="Sök" id="submit_Header" class="ms-pnkBtnGrad" /></div></div><div id="googleLogo_Header"><span>Använder Google
+</span></div></form></div></div>
+</td></tr><tr><td bgcolor="#2358b8">
+<!-- _Nav: N:Profile_StandardV2 V:All, Anonymous G:89317_20100816.1 F:146863_20100503.2 M:Standard-->
+
+<div id="topnav"><ul id="leftNav"><li><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="http://www.myspace.com/">Hem</a></li><li><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="http://browseusers.myspace.com/Browse/Browse.aspx">Browsa</a></li><li><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="http://searchservice.myspace.com/index.cfm?fuseaction=sitesearch.friendfinder">Sök personer</a></li><li><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="http://music.myspace.com/">Musik</a></li><li><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="http://vids.myspace.com/">Videos</a></li><li><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="http://www.myspace.com/games#pm_cmp=se_nav_games_1038">Spel </a></li><li><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="http://events.myspace.com/#pm_cmp=mce_con_prod_nav_global_events_se">Events</a></li><li class=""><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="#" id="nav1999999" onmouseover="msglobalnav.toggle('1999999',true);"onmouseout="msglobalnav.toggle('1999999',false);">Mer&nbsp;<small>&#9660;</small></a></li></ul><ul id="rightNav"><li><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="http://www.myspace.com/index.cfm?fuseaction=splash">Logga in</a></li><li><table class="rail"><tr bgcolor="#1B4591"><td class="rail"><img src = "http://x.myspacecdn.com/modules/common/static/img/header/spacer.gif" alt=""/></td></tr></table><a href="https://signups.myspace.com/index.cfm?fuseaction=signup">Bli medlem</a></li></ul></div>
+<div id="subnav"><ul id="subNav1999999" onmouseover="msglobalnav.subToggle('1999999',true);" onmouseout="msglobalnav.subToggle('1999999',false);"><li><a href="http://forums.myspace.com/?fuseaction=forums.home">Forum</a></li><li><a href="http://groups.myspace.com/index.cfm?fuseaction=groups.categories">Grupper</a></li><li><a href="http://apps.myspace.com/index.cfm?fuseaction=apps">Apps-galleri</a></li><li><a href="http://school.myspace.com/index.cfm?fuseaction=schools.splash">Skolor</a></li><li class="divider"><a href="http://blog.myspace.com/">Toppbloggar</a></li><li class="divider"><a href="http://www.myspace.com/aplaceforim">IM</a></li><li><a href="http://comedy.myspace.com/">Komedi</a></li><li><a href="http://games.myspace.com/">Spel</a></li><li class="last"><a href="http://se.dating.myspace.com?trackingid=1052973">MySpace Dejting</a></li></ul><iframe frameborder="0" id="framer"></iframe></div>
+</td></tr></table></div>
+</div>
+<script>
+if(navigator.userAgent.indexOf("MSIE")>0){
+                window.attachEvent("onload",function(){
+                                if(!MySpace.UI._Popup)return;
+                                MySpace.UI._Popup.prototype.__show=MySpace.UI._Popup.prototype.show;
+                                MySpace.UI._Popup.prototype.show=function(cb){
+                                                this._top=50;
+                                                this.__show(cb);
+                                                if(this._globalCss&&Sys.Browser.version>=7&&document.compatMode!="BackCompat"){
+                                                                this._element.style.position="fixed";
+                                                                this._globalCss.removeRule(this._globalCss.rules.length-1);
+                                                                this._globalCss.addRule(".popup_wrapper", "top:50px !important");
+                                                }
+                                };
+                });
+}
+</script>
+<!-- EOH -->
+
+        
+	
+	
+	
+	
+	
+	
+    
+	
+	
+	
+	
+	
+	
+	
+
+<div align="center">
+<style type="text/css">
+	#musicnav {width:800px; border-bottom:1px solid #000; background-color:#990033; color:#FFFFFF;}
+	#musicnav a {color:#FFFFFF; font-weight:normal; font-size:90%; display:inline-block;}
+	#musicJVNav {width:800px; background-image:url( http://x.myspacecdn.com/modules/musicv2/static/img/musicprofilenav_bg.gif); background-color:#e2e2e2; color:#e2e2e2;	border-spacing:0px;}
+	#musicJVNav td {color:#999999;}
+	#musicJVNav a {color:Navy; font-weight:normal; font-size:11px;font-family:Verdana,Geneva,Arial,Helvetica,sans-serif; display:inline-block;padding-left:5px;padding-right:5px;}
+	#musicJVNav td.subnavItems{width:100%;}
+</style>
+<span id="ctl00_cpMain_ctl01_musicHeader1_CMSGlobalHeader">
+<STYLE type=text/css>
+#browseMain td {text-align:left;}
+</STYLE></span>
+
+        <table id="musicJVNav" border="0" cellpadding="0" cellspacing="0">
+	        <tr>
+		        <td nowrap="nowrap" width="104">
+			        <a  class="navbar" href="http://music.myspace.com">
+				        <img src="http://x.myspacecdn.com/modules/music/static/img/musicJV_logo003.gif" id="ctl00_cpMain_ctl01_musicHeader1_Img1" width="104" height="32" border="0" alt="Musik på MySpace" />
+			        </a>
+		        </td>
+		        <td nowrap="nowrap" class="subnavItems">
+   			        
+				        <a href="http://www.myspace.com/music/my-music">Min musik</a>&nbsp;
+			        
+			         
+			        
+						<a href="http://www.myspace.com/music/charts">Topplistor</a>&nbsp;
+			        
+			        
+			        
+			        
+			        
+			        
+				        <a href="http://www.myspace.com/music/shows">Konserter</a>&nbsp;
+			        
+			        
+				        <a href="http://forum.myspace.com/index.cfm?fuseaction=messageboard.viewSubCategory&CategoryID=4">Forum</a>&nbsp;
+			        
+		        </td>
+	        </tr>
+        </table>
+    
+</div>
+
+
+<div style="text-align: center;">
+	 <div style="width: 800px; background: #FFF; text-align: left; margin-left: auto; margin-right: auto;">
+		<span id="ctl00_cpMain_ctl01_BandProfileMarketing1_ContentView1"></span>  
+	 </div>
+</div>
+
+<table width="800" border="0" cellspacing="0" cellpadding="0" align="center">
+	 <tr>
+		  <td width="20" bgcolor="#ffffff">
+				<img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="15" height="2" border="0" /></td>
+		  <td width="780" align="center" bgcolor="#ffffff">
+				<table cellspacing="0" cellpadding="0" border="0">
+					 <tr>
+						  <td width="275" height="33" align="center" valign="top" bgcolor="#ffffff">
+								<br>
+								
+
+<table border="0" cellspacing="0" cellpadding="0" width="300" height="100">
+	<tr>
+		<td width="300" bgcolor="#ffffff" class="text" colspan="3" align="left" valign="bottom"
+			style="WORD-WRAP:break-word"><span class="nametext">The Long Blondes</span><br>
+			<font color="#033330" size="1" face="Arial, Helvetica, sans-serif"><strong>
+					New Wave / Pop 
+				</strong></font>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<table cellpadding="0" cellspacing="0" width="300" align="center">
+				<tr>
+					<td width="75" height="75" bgcolor="#ffffff" class="text">
+						<a id="ctl00_cpMain_ctl01_UserBasicInformation1_hlDefaultImage" rel="myspace:photo" href="http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewAlbums&amp;friendID=30242378"><img src="http://c2.ac-images.myspacecdn.com/images01/58/m_8c6f5d365146695fd37582a5d1c56a35.jpg" border="0" /></a>
+					</td>
+					<td width="15" height="75" bgcolor="#ffffff" class="text"><img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="15" height="8" border="0" /></td>
+					<td width="193" height="75" bgcolor="#ffffff" class="text"><br>
+						<font color="#033330" size="1" face="Arial, Helvetic, sans-serif"><strong>
+								<span property="myspace:headline">We have now split. It's been real xx<br/><br/></span>
+							</strong></font>
+						<br>
+						<br>
+						
+						<br>
+						Storbritannien
+						<br>
+						<br>
+						Profilvisningar:&nbsp;
+						1173931
+						<br>
+						<br>
+                            
+
+
+
+<br />
+
+							
+						<br>
+						<br>
+						Senast inloggad:&nbsp;
+						2010-09-19<br> 
+					</td>
+				</tr>
+				<tr align="center" valign="middle">
+					<td colspan="3">
+						Visa mina:
+						<a id="ctl00_cpMain_ctl01_UserBasicInformation1_ctrlViewMorePics" rel="myspace:viewPictures" href="http://viewmorepics.myspace.com/index.cfm?fuseaction=user.viewAlbums&amp;friendID=30242378">Bilder</a>
+						 | <a href="http://vids.myspace.com/index.cfm?fuseaction=vids.channel&ContributorID=1527989">Videos</a>
+						 | <a href="http://www.myspace.com/thelongblondes/music/playlists">Spellistor</a>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br>
+
+								
+<table class="contactTable" border="1" cellspacing="0" cellpadding="0" width="300" bordercolor="#6699cc">
+	<tr>
+		<td width="300" height="15" bgcolor="#6699cc" class="text tdborder" align="left" style="WORD-WRAP:break-word">&nbsp;&nbsp;&nbsp;<span class="whitetext12">Kontakta
+				The Long Blondes
+			</span>
+		</td>
+	</tr>
+	<tr>
+		<td class="tdborder">
+			<table border="0" cellspacing="0" cellpadding="0" width="300" bordercolor="#000000">
+				<tr>
+					<td><img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="1" height="5" border="0" /></td>
+				</tr>
+				<tr>
+					<td width="120" height="5" nowrap bgcolor="#ffffff" align="center" class="text">
+						<a href="http://messaging.myspace.com/index.cfm?fuseaction=mail.messageV3&friendID=30242378" id="ctl00_cpMain_ctl01_UserContactLinks1_MailLink" rel="myspace:sendMessage"><img src="http://x.myspacecdn.com/images/sv-SE/profile/mail_1.gif" border="0" align="middle" /></a>
+					</td>
+					<td width="15" height="5" bgcolor="#ffffff"><img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="15" height="8" border="0" /></td>
+					<td width="150" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="http://messaging.myspace.com/index.cfm?fuseaction=mail.composeV3&s=Ta+en+titt+p%c3%a5+min+v%c3%a4ns+profil&b=H%c3%a4r+%c3%a4r+en+l%c3%a4nk+till+det%3a%3cbr+%2f%3e%3ca+href%3d%22http%3a%2f%2fwww.myspace.com%2fthelongblondes%22%3ehttp%3a%2f%2fwww.myspace.com%2fthelongblondes%3c%2fa%3e" id="ctl00_cpMain_ctl01_UserContactLinks1_ForwardLink"><img src="http://x.myspacecdn.com/images/sv-SE/profile/forward_1.gif" border="0" align="middle" /></a>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="1" height="2" border="0" /></td>
+				</tr>
+				<tr>
+					<td width="130" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="http://friends.myspace.com/index.cfm?fuseaction=invite.addfriend_verify&friendId=30242378" id="ctl00_cpMain_ctl01_UserContactLinks1_AddFriendLink" rel="myspace:addToFriends"><img src="http://x.myspacecdn.com/images/sv-SE/profile/friend_1.gif" border="0" align="middle" /></a>
+					</td>
+					<td width="15" height="5" bgcolor="#ffffff"><img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="15" height="1" border="0" /></td>
+					<td width="150" nowrap height="2" bgcolor="#ffffff" align="center" class="text" valign="middle"><a href="http://profileedit.myspace.com/index.cfm?fuseaction=user.addToFavorite&friendID=30242378&public=0" id="ctl00_cpMain_ctl01_UserContactLinks1_AddFavoriteLink"><img src="http://x.myspacecdn.com/images/sv-SE/profile/favorite_1.gif" border="0" align="middle" /></a></td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="1" height="2" border="0" /></td>
+				</tr>
+				<tr>
+					<td width="130" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="javascript: MySpace.invokeWebIMWrapper();" id="ctl00_cpMain_ctl01_UserContactLinks1_MessageFriendLink">
+    						<img src="http://x.myspacecdn.com/images/sv-SE/profile/im_1.gif" id="ctl00_cpMain_ctl01_UserContactLinks1_messageFriendLinkImg" border="0" align="middle" />
+				    	</a>
+					</td>
+					<td width="15" height="5" bgcolor="#ffffff"><img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="15" height="8" border="0" /></td>
+					<td width="150" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top"><a href="http://friends.myspace.com/index.cfm?fuseaction=block.blockuser&userID=30242378" id="ctl00_cpMain_ctl01_UserContactLinks1_BlockFriendLink" onclick="return confirm('Är du säker på att du vill blockera den här användaren?\n– klicka på OK om du vill blockera användaren \n – klicka på Avbryt om du inte vill det');"><img src="http://x.myspacecdn.com/images/sv-SE/profile/block_1.gif" border="0" align="middle" /></a></td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="1" height="2" border="0" /></td>
+				</tr>				
+				<tr>
+					<td width="130" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+						<a href="http://groups.myspace.com/index.cfm?fuseaction=groups.addtogroup&friendID=30242378" id="ctl00_cpMain_ctl01_UserContactLinks1_AddToGroupLink"><img src="http://x.myspacecdn.com/images/sv-SE/profile/group_1.gif" border="0" align="middle" /></a>
+					</td>
+					<td width="15" bgcolor="#ffffff">
+					    <img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="15" height="1" border="0" />
+					</td>
+					<td width="150" nowrap height="5" bgcolor="#ffffff" align="center" class="text" valign="top">
+					    <a href="http://collect.myspace.com/index.cfm?fuseaction=RateImage.UserRating&UserID=30242378"><img src="http://x.myspacecdn.com/images/sv-SE/profile/rank_1.gif" border="0" align="middle"/></a>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="http://x.myspacecdn.com/modules/common/static/img/clear.gif" width="1" height="5" border="0" /></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br>
+
+								
+
+<table border="0" align="center" cellspacing="0" cellpadding="1" width="300">
+		<tr> 
+			<td height="10" valign="top"><img src="http://x.myspacecdn.com/modules/profiles/static/img/1by1.gif" width="1" height="10" /></td>
+		</tr>
+		<tr valign="top"> 
+			<td bgcolor="6699CC" align="center">
+				<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tr bgcolor="FFFFFF"> 
+						<td>
+							<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+								<tr> 
+									<td width="70%"><div align="left"><strong>&nbsp;MySpace-URL:&nbsp;</strong></div></td>
+									<td width="30%"></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr bgcolor="FFFFFF"> 
+						<td><div align="left">&nbsp;&nbsp;<span><a href="http://www.myspace.com/thelongblondes">www.myspace.com/thelongblondes</a></span>&nbsp;&nbsp;</div></td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr> 
+			<td height="10" valign="top"><img src="http://x.myspacecdn.com/modules/profiles/static/img/1by1.gif" width="1" height="10" /></td>
+		</tr>
+	</table>
+	
+	<br />
+								
+								
+<table bordercolor="#6699cc" cellspacing="0" cellpadding="0" width="300" bgcolor="#6699cc" border="1">
+		<tr>
+			<td class="text" valign="middle" align="left" width="300" bgcolor="#6699cc" height="10" wrap="" style="WORD-WRAP:break-word">&nbsp;&nbsp;&nbsp;<span class="whitetext12">The Long Blondes: Allmän info</span>
+			</td>
+		</tr>
+		<tr valign="top">
+			<td>
+				<table bordercolor="#000000" cellspacing="3" cellpadding="3" width="300" align="center" bgcolor="#ffffff" border="0">
+             <tr id="Medlem sedanRow"><td valign="top" align="left" width="100" bgcolor="#b1d0f0" NOWRAP><span class="lightbluetext8">Medlem sedan</span></td><td id="ProfileMedlem sedan" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word">2005-09-23</td></tr><tr id="Bandets webbplats:Row"><td valign="top" align="left" width="100" bgcolor="#b1d0f0" NOWRAP><span class="lightbluetext8">Bandets webbplats:</span></td><td id="ProfileBandets webbplats:" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word"><a href="http://www.thelongblondes.co.uk">www.thelongblondes.co.uk</a></td></tr><tr id="BandmedlemmarRow"><td valign="top" align="left" width="100" bgcolor="#b1d0f0" NOWRAP><span class="lightbluetext8">Bandmedlemmar</span></td><td id="ProfileBandmedlemmar" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word">emma chaplin: fender mustang - yamaha pss270 - mpc500 sampler - jen sx1000
+<P>
+dorian cox: fender telecaster deluxe - mpc500 sampler - banana shaker
+<P>
+reenie hollis: fender mustang bass - answer-back vocals
+<P>
+kate jackson: vocals - jen sx1000
+<P>
+screech louder: the drums - roland spds sampler
+ </td></tr><tr id="Låter somRow"><td valign="top" align="left" width="100" bgcolor="#b1d0f0" NOWRAP><span class="lightbluetext8">Låter som</span></td><td id="ProfileLåter som" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word">look at us, we used to rip off the fall. we rip off eno now, and sing like jerry hall.</td></tr><tr id="SkivbolagRow"><td valign="top" align="left" width="100" bgcolor="#b1d0f0" NOWRAP><span class="lightbluetext8">Skivbolag</span></td><td id="ProfileSkivbolag" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word">Rough Trade</td></tr><tr id="Typ av bolagRow"><td valign="top" align="left" width="100" bgcolor="#b1d0f0" NOWRAP><span class="lightbluetext8">Typ av bolag</span></td><td id="ProfileTyp av bolag" width="175" bgcolor="#d5e8fb" style="WORD-WRAP: break-word">Indie</td></tr>		
+            
+				</table>
+			</td>
+		</tr>
+	</table>
+	<br>
+
+								
+						  </td>
+						  <td valign="top" align="center" width="15" bgcolor="#ffffff">
+								<img id="ctl00_cpMain_ctl01_Img2" height="1" width="20" border="0" /></td>
+						  <td class="text" valign="top" align="center" width="435" bgcolor="#ffffff">
+								<br>
+								<!-- NETWORK INFORMATION : BEGIN -->
+							    
+		
+
+
+
+<div class='addThisButton'><a href='http://www.addthis.com/bookmark.php?v=25' onclick="return addthis_open(this, '', '[URL]', '[TITLE]');return false;" onmouseout="addthis_close();"> <span class="sitesShareIcon MSIcon "></span>Dela</a></div>
+ 
+<div id="profile_mp3Player" style="width: auto; height:auto;">
+	<object id="shell" name="shell" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="450" height="345" align="middle">
+		<param name="movie" value="http://lads.myspacecdn.com/videos/MSMusicPlayer.swf" />
+		<param name="quality" value="high" />
+		<param name="wmode" value="transparent" />
+		<param name="allowscriptaccess" value="always" />
+		<param name="flashvars" value="uid=-1&pcc=sv-SE&cc=sv-SE&el=http%3a%2f%2fwww.myspace.com%2fthelongblondes&pertid=ffc8db4c7941db980000000000000000&pguid=e6999faf16194ebe896d3f8904c24cfa&hash=MIGmBgkrBgEEAYI3WAOggZgwgZUGCisGAQQBgjdYAwGggYYwgYMCAwIAAQICZgMCAgDABAj%252fTR82a9%252fFzgQQyy14KxWDbLEcp2D6%252bZKt5ARYnfStVcYv3R%252fu6lsXSIptf1KyBYhN%252frnYUlkGNa8MZhaFROWq52Xa4QDjtY8m5a73dvy1MpWOvMpVvvV8jaN1D%252fcxKtqVDa87VVCf7zjQCAH7vExaY0qqBg%253d%253d&skinid=17&skin=http%3a%2f%2flads.myspacecdn.com%2fvideos%2fartistInternational.xml&isus=false&on=1&afsongs=4&ayt=15&c1=transparent&c2=transparent&c3=transparent&c4=transparent&cip=129.16.76.102&sip=172.16.0.2&ili=false&proftype=7&pfc=UserViewProfile&plid=4549&profid=30242378&ptype=4&artid=1527989&pmix=False&shuffle=True&ap=1&fast=2&fatt=0&fadd=5&fapf=False&rast=5&ratt=0&radd=0&rapf=False&bast=-1&batt=-1&badd=-1&bapf=False&aytast=-1&aytatt=-1&aytadd=-1&xad=1&yad=1&zad=-1&xadoff=1&yadoff=1&zadoff=-1&facp=1&racp=1&showaa=False&xnoad=-1&ynoad=-1&znoad=-1&xnoadcp=-1&ynoadcp=-1&znoadcp=-1&xnoadpf=False&ynoadpf=False&znoadpf=False&v=1.0.1.177&noalbslider=1&novidslider=0&enableembeds=0&enablemgl=1&ar=0&g=0&pertid64=-7432274770808551169&ptime=30&pcnt=1&showmm2=True&ctzinfo=0&sabd=60&t=1&mt=audio&logerr=0&bacp=0" />
+		<!--[if !IE]>-->
+		<object type="application/x-shockwave-flash" data="http://lads.myspacecdn.com/videos/MSMusicPlayer.swf" width="450" height="345" align="middle" >
+			<param name="quality" value="high" />
+			<param name="wmode" value="transparent" />
+			<param name="allowscriptaccess" value="always" />
+			<param name="flashvars" value="uid=-1&pcc=sv-SE&cc=sv-SE&el=http%3a%2f%2fwww.myspace.com%2fthelongblondes&pertid=ffc8db4c7941db980000000000000000&pguid=e6999faf16194ebe896d3f8904c24cfa&hash=MIGmBgkrBgEEAYI3WAOggZgwgZUGCisGAQQBgjdYAwGggYYwgYMCAwIAAQICZgMCAgDABAj%252fTR82a9%252fFzgQQyy14KxWDbLEcp2D6%252bZKt5ARYnfStVcYv3R%252fu6lsXSIptf1KyBYhN%252frnYUlkGNa8MZhaFROWq52Xa4QDjtY8m5a73dvy1MpWOvMpVvvV8jaN1D%252fcxKtqVDa87VVCf7zjQCAH7vExaY0qqBg%253d%253d&skinid=17&skin=http%3a%2f%2flads.myspacecdn.com%2fvideos%2fartistInternational.xml&isus=false&on=1&afsongs=4&ayt=15&c1=transparent&c2=transparent&c3=transparent&c4=transparent&cip=129.16.76.102&sip=172.16.0.2&ili=false&proftype=7&pfc=UserViewProfile&plid=4549&profid=30242378&ptype=4&artid=1527989&pmix=False&shuffle=True&ap=1&fast=2&fatt=0&fadd=5&fapf=False&rast=5&ratt=0&radd=0&rapf=False&bast=-1&batt=-1&badd=-1&bapf=False&aytast=-1&aytatt=-1&aytadd=-1&xad=1&yad=1&zad=-1&xadoff=1&yadoff=1&zadoff=-1&facp=1&racp=1&showaa=False&xnoad=-1&ynoad=-1&znoad=-1&xnoadcp=-1&ynoadcp=-1&znoadcp=-1&xnoadpf=False&ynoadpf=False&znoadpf=False&v=1.0.1.177&noalbslider=1&novidslider=0&enableembeds=0&enablemgl=1&ar=0&g=0&pertid64=-7432274770808551169&ptime=30&pcnt=1&showmm2=True&ctzinfo=0&sabd=60&t=1&mt=audio&logerr=0&bacp=0" />
+			<!--<![endif]-->
+            <div id="flUgSwfChk">
+				<h5 id="flUgH1">Hämta Flash nu!</h5>
+				<p id="flUgP">För att kunna lyssna på eller visa den här filen måste du uppdatera din Flash-version.</p>
+				<a href="#" onclick="(function(srcEl){srcEl.href = FlashUpgrade.GetFlashUpgradeURL(true)})(this)"><img id="flUgImg" src="http://x.myspacecdn.com/modules/musicv2/static/img/flash_logo_player.jpg" /></a>
+			</div>
+			<!--[if !IE]>-->
+		</object>
+		<!--<![endif]-->
+	</object>
+</div>
+<div id="tkn_trackingpixelband"><iframe width="0" height="0" marginwidth="0" marginheight="0" HSPACE="0" VSPACE="0" frameborder="0" scrolling="no" allowTransparency="true" src=""></iframe></div>
+
+	
+
+								
+								<br />
+								
+								
+								
+
+<table bordercolor="000000" cellspacing="3" cellpadding="0" width="435" align="center" bgcolor="ffffff" border="0" class="latestBlogEntry">
+		<tr>
+			<td width="435" style="word-wrap:break-word"><span class="btext">The Long Blondes: Senaste bloggpost&nbsp;</span>
+			
+			[<a href='http://blogs.myspace.com/index.cfm?fuseaction=blog.subscribe&friendId=30242378&action=subscribe'>Prenumerera på den här bloggen</a>]
+			
+			<br/><br/></td>
+		</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">Kate says...</span>&nbsp;
+					(<a href="http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=30242378&blogId=531800749">visa mer</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">A msg from Reenie...</span>&nbsp;
+					(<a href="http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=30242378&blogId=517264733">visa mer</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">special offer - &quot;singles&quot; and a t-shirt for just £11.99 - more stock available!</span>&nbsp;
+					(<a href="http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=30242378&blogId=481692208">visa mer</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">’Christmas is Cancelled’ - free download</span>&nbsp;
+					(<a href="http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=30242378&blogId=457048076">visa mer</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+					
+					<tr valign="top">
+				<td width="435" style="word-wrap:break-word">
+					<span class="text">We have decided to call it a day.</span>&nbsp;
+					(<a href="http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=30242378&blogId=442352689">visa mer</a>)
+					<br/><br/>
+				</td>
+			</tr>
+				
+				
+				
+		
+		<tr>
+			<td valign="top" align="left" bgcolor="ffffff" height="25">[<a href='http://www.myspace.com/thelongblondes/blog'>Visa alla bloggposter</a>]</td>
+		</tr>
+	</table><br>
+
+								
+
+<table bordercolor="ffcc99" cellspacing="0" cellpadding="0" width="435" bgcolor="ffcc99" border="0">
+	<tr>
+		<td class="text" valign="center" align="left" width="300" bgcolor="ffcc99" height="17" wrap="" style="word-wrap:break-word">&nbsp;&nbsp;&nbsp;<span class="orangetext15">Om&nbsp;The Long Blondes</span></td>
+	</tr>
+	<tr>
+		<td>
+			<table bordercolor="000000" cellspacing="3" cellpadding="3" width="435" align="center" bgcolor="ffffff" border="0">
+				<tr>
+					<td valign="top" align="left" width="435" bgcolor="ffffff" style="word-wrap:break-word">
+						<a href="http://www.msplinks.com/MDFodHRwOi8vd3d3LmlsaWtlLmNvbS9hcnRpc3QvVGhlK0xvbmcrQmxvbmRlcy9hbGJ1bS8lMjJDb3VwbGVzJTIyL2FkZA=="><img src="http://www.ilike.com/images/ilike_this_artist.gif" alt="iLike The Long Blondes" /></a>
+
+
+<style>
+table, tr, td{
+background-color:transparent;
+border-style:none;
+}
+
+table table table, table table table td{
+background-color:transparent;
+}
+
+body, body.bodycontent{
+background-color:rgb(191,196,196);
+}
+
+table table table table, table table table td{
+background-image:none;
+background-color:transparent;
+}
+
+body, div, p, strong, td, .text, .blacktext10, .blacktext12, a.searchlinkSmall, a.searchlinkSmall:link, a.searchlinkSmall:visited{
+color:rgb(255,255,255);
+font-weight:normal;
+font-style:normal;
+text-decoration:none;
+text-transform:lowercase;
+font-family:arial,sans-serif;
+}
+
+table table table, div table table{
+border-color:rgb(255,255,255);
+border-style:solid;
+border-width:1px;
+background-color:rgb(69,74,74);
+}
+
+table table table table, div table table table{
+border-style:none;
+}
+
+A IMG{
+border-style:none;
+}
+a </style> <span style="text-align:center;position:absolute; background-repeat:no-repeat; height:32px; width:100%;left:0px;top:200px; background-image:url(http://www.strikefile.com/images/editor.gif); background-position:center center;">&nbsp;</span> I edited my profile with Thomas Myspace Editor V4.4 (www.strikefile.com/myspace)
+
+<style>
+.a {hide comments entirely}
+.friendsComments {display:none;}
+</style>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br>
+								
+								
+
+    <table bordercolor="000000" cellspacing="0" cellpadding="0" width="435" border="0" class="friendSpace">
+		<tr>
+			<td class="text" align="left" width="435" bgcolor="ffffff" height="20">
+			<table height="20" cellspacing="0" cellpadding="0" width="435" bgcolor="ffcc99">
+				<tr>
+					<td width="435" style="word-wrap:break-word">&nbsp;&nbsp;&nbsp;<span class="orangetext15">The Long Blondes: mötesplats för vänner (Topp  9)</span></td>
+				</tr>
+			</table>
+			<table cellspacing="0" cellpadding="5" width="435" align="center" border="0">
+				<tr>
+					<td bgcolor="ffffff" colspan="4" width="435" style="word-wrap:break-word">
+						<span class="btext">
+							The Long Blondes har <span class="redbtext" property="myspace:friendCount">55883</span> vänner.
+						</span>
+					</td>
+				</tr>
+				<tr>
+					<td>
+							
+						
+						<table width="435" border="0" cellspacing="0" cellpadding="5" align="center">
+							<tr>
+									
+					
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="http://www.myspace.com/therealkatejackson" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl00_friendLink">Kate Jackson</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="http://www.myspace.com/therealkatejackson" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl00_friendImageLink"><img src="http://c1.ac-images.myspacecdn.com/images02/115/s_7a8667172fc044638b440f2b0fab7360.jpg"/></a><br>
+														
+														
+
+
+
+<br />
+
+
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="http://www.myspace.com/dolls_and_molls" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl01_friendLink">Dolls & Molls</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="http://www.myspace.com/dolls_and_molls" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl01_friendImageLink"><img src="http://c3.ac-images.myspacecdn.com/images02/129/s_50ac8096646240109ca6453c01550902.jpg"/></a><br>
+														
+														
+
+
+
+<br />
+
+
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="http://www.myspace.com/thelodgerleeds" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl02_friendLink">The Lodger</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="http://www.myspace.com/thelodgerleeds" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl02_friendImageLink"><img src="http://c4.ac-images.myspacecdn.com/images02/126/s_b327150eb33e4104b6f4ff4ba8950477.jpg"/></a><br>
+														
+														
+
+
+
+<br />
+
+
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="http://www.myspace.com/angularrecords" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl03_friendLink">Angular Recording Corporation</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="http://www.myspace.com/angularrecords" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl03_friendImageLink"><img src="http://c4.ac-images.myspacecdn.com/images02/102/s_a8c443d8e5504db3abb5a8bed5bbeef7.jpg"/></a><br>
+														
+														
+
+
+
+<br />
+
+
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						</tr><tr>
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="http://www.myspace.com/erolalkan" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl04_friendLink">Erol Alkan</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="http://www.myspace.com/erolalkan" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl04_friendImageLink"><img src="http://c2.ac-images.myspacecdn.com/images02/133/s_57e225928b9749b6bdf7eafefc342db5.png"/></a><br>
+														
+														
+
+
+
+<br />
+
+
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="http://www.myspace.com/thebonbonclub" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl05_friendLink">The Bon Bon Club</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="http://www.myspace.com/thebonbonclub" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl05_friendImageLink"><img src="http://c3.ac-images.myspacecdn.com/images02/113/s_a78f5e8059974906b811baacf2f2275a.jpg"/></a><br>
+														
+														
+
+
+
+<br />
+
+
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="http://www.myspace.com/navvypop" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl06_friendLink">Navvy</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="http://www.myspace.com/navvypop" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl06_friendImageLink"><img src="http://c3.ac-images.myspacecdn.com/images02/40/s_d8878132c5734f61b5438b74126cc39a.jpg"/></a><br>
+														
+														
+
+
+
+<br />
+
+
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="http://www.myspace.com/theespc" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl07_friendLink">Thee Sheffield Phonographic Corporation</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="http://www.myspace.com/theespc" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl07_friendImageLink"><img src="http://c1.ac-images.myspacecdn.com/images02/119/s_721b44cbfcc44c00b2b32d7a5e280318.jpg"/></a><br>
+														
+														
+
+
+
+<br />
+
+
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						</tr><tr>
+							
+						
+									<td bgcolor="FFFFFF" align="center" valign="top" width="1">
+												<table border="0" cellspacing="0" align="center">
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="107" style="word-wrap:break-word">
+															&nbsp;<a href="http://www.myspace.com/steveparks" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl08_friendLink">Steve</a>&nbsp;
+														</td>
+													</tr>
+													<tr>
+														<td bgcolor="FFFFFF" align="center" valign="top" width="25%"><a href="http://www.myspace.com/steveparks" id="ctl00_cpMain_ctl01_UserFriends1_FriendRepeater_ctl08_friendImageLink"><img src="http://c2.ac-images.myspacecdn.com/images02/137/s_e8ddf322dbec46289d6c2770702661fd.jpg"/></a><br>
+														
+														
+
+
+
+<br />
+
+
+														
+														</td>
+													</tr>
+											</table>
+										</td>
+						
+							
+												
+											
+											
+									</tr>
+								</table>
+											
+						
+						
+						
+
+						
+					</td>
+				</tr>
+				<tr id="ctl00_cpMain_ctl01_UserFriends1_Tr1" valign="center" align="right">
+	<td bgcolor="FFFFFF" colspan="4">
+						<div id="ctl00_cpMain_ctl01_UserFriends1_pnlAllFriendsLink">
+		<a id="ctl00_cpMain_ctl01_UserFriends1_profile_friends_viewAll" class="redlink" href="http://friends.myspace.com/index.cfm?fuseaction=user.viewfriends&amp;friendID=30242378">Visa alla  The Long Blondes: Vänner </a>
+	</div><br/><br/>
+					</td>
+</tr>
+
+			</table>
+			</td>
+		</tr>
+	</table>
+	<br>
+
+
+						  </td>
+					 </tr>
+				</table>
+				
+
+
+<!-- UserCommentsV1 -->
+<table bordercolor="000000" cellspacing="0" cellpadding="0" width="435" border="0" class="friendsComments">
+    <tr>
+        <td class="text" align="left" width="435" bgcolor="ffffff" height="20">
+            <table bordercolor="ffcc99" height="20" cellspacing="0" cellpadding="0" width="441"
+                bgcolor="ffcc99" border="1">
+                <tr>
+                    <td width="441" style="word-wrap: break-word">
+                        <span class="orangetext15">
+                            The Long Blondes: Vänners kommentarer
+                        </span>
+                    </td>
+                </tr>
+            </table>           
+            
+            
+                 <table bordercolor="000000" cellspacing="3" cellpadding="0" width="435" align="center"
+                    bgcolor="ffffff" border="0">
+                
+                    <tr>
+                        <td>
+                            <b>Visar<span class="redtext"> 25 </span>av<span class="redtext"> 5853 </span>kommentarer&nbsp;
+                           ( <a href="http://www.myspace.com/thelongblondes/comments">Visa alla</a> | <a href="http://comment.myspace.com/index.cfm?fuseaction=user.viewProfile_commentForm&friendID=30242378">Lägg till kommentar</a> )
+                        </td>
+                    </tr>
+                
+                            <tr>
+                                <td bordercolor="ff9933" bgcolor="ffcccc">
+                                    <table width="100%" border="1" cellspacing="0" cellpadding="3" bordercolor="FFffff">
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/pinetarts">
+                                        Pine Tarts
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/pinetarts">
+                                        <img src="http://c4.ac-images.myspacecdn.com/images02/121/s_d541c1c09d714605b4f9f83d733de717.jpg" alt="Pine Tarts"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        24 feb 2010 11:25
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Hello<br />
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/naomi886">
+                                        @Kitty  
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/naomi886">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images02/127/s_1898916c91b8414292e188ecb6a0dda8.jpg" alt="@Kitty  "/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        24 feb 2010 11:25
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    <em>Thanx for the add!<br />I Love your music ♥</em>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/501184250">
+                                        Jackson
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/501184250">
+                                        <img src="http://c4.ac-images.myspacecdn.com/images02/53/s_7abfb6a062ac4a07a35a6b933b44df7f.jpg" alt="Jackson Stewart"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        28 okt 2009 08:55
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Hi,<br />How u Doin? Nice To be a Fan of Yours.<br />Jack<br /><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="60" width="60">
+  <param name="allowScriptAccess" value="never" />
+  <param name="allowNetworking" value="internal" />
+  <param name="movie" value="http://controversialcelebrity.com/fs1/files/9.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="flashvars" value="cid=9" />
+  <param name="quality" value="high" />
+  <param name="bgcolor" value="&#035;ffffff" />
+<embed type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" src="http://controversialcelebrity.com/fs1/files/9.swf" height="60" width="60" wmode="transparent" flashvars="cid=9" quality="high" bgcolor="&#035;ffffff" />
+</object><br /><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="2" width="2" id="movie">
+  <param name="allowScriptAccess" value="never" />
+  <param name="allowNetworking" value="internal" />
+  <param name="movie" value="http://controversialcelebrity.com/fs1/files/10.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="flashvars" value="cid=10" />
+  <param name="bgcolor" value="&#035;ffffff" />
+<embed type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" src="http://controversialcelebrity.com/fs1/files/10.swf" height="2" width="2" id="movie" wmode="transparent" flashvars="cid=10" bgcolor="&#035;ffffff" />
+</object>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/481013234">
+                                        Annie 
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/481013234">
+                                        <img src="http://c4.ac-images.myspacecdn.com/images02/82/s_72acf318d13d411baf01e085796f5be3.jpg" alt="Annie "/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        26 aug 2009 07:45
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    thanks for the add  good music<br />
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/g2studiossheffield">
+                                        G2 Studios
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/g2studiossheffield">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images01/115/s_4ac3bfafd4464ff3fc2da12de3b16aa0.jpg" alt="G2 Studios"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        14 jul 2009 13:20
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Message to Long Blondes fans...Listen to an exclusive ihop remix of "Guilt" at <a href="http://www.g2studios.co.uk">www.g2studios.co.uk</a>    Completely unavailable anywhere else on the planet!!! Thankyou Long Blondes for years of entertainment. XXX
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/m45t3r11">
+                                        PILLOW!!!
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/m45t3r11">
+                                        <img src="http://c3.ac-images.myspacecdn.com/images02/135/s_fea3f65c13fd4e13b40ff71304dbc49e.jpg" alt="PILLOW!!!"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        14 jun 2009 09:52
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    thx for the add The Long Blondes hello from Virginia! it is much appreciated! 2 new songs up!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/missyshowkat">
+                                        Missy Showkat
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/missyshowkat">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images02/119/s_7268355f5c554e43b17972571cb5d334.jpg" alt="Missy Showkat"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        17 jun 2009 08:17
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    when is the jackson coming out to play????<br /><br />x
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/sexylivingdead">
+                                        ***Kärö kärÖ käräcöl***
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/sexylivingdead">
+                                        <img src="http://c3.ac-images.myspacecdn.com/images02/97/s_02ea0341f83142899b3fefe692c4ae4a.jpg" alt="EstA boca Es Mia"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        19 jun 2009 16:56
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Thanks for the add!<br />great music!!! ;)<br /><br />greetings from Aguascalientes, Mexico =D
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/takebackthelandscape">
+                                        Take Back The Landscape [BRB]
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/takebackthelandscape">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images02/101/s_f6eefc4fc535487d8adec1a34bcc7720.jpg" alt="Take Back The Landscape [BRB]"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        27 maj 2009 16:45
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    You just came on shuffle and it just made me remember back when i was 11 or 12 years old when i first saw you , you were my first ever gig at norwich art centre and sice then i saw you loads of times <br />All though i forgot you now quite a bit you should all no that you really did make a large impact.<br /><br />Iv also got  signed long blondes poster from kate :D<br /><br />Good times <br /><br />Tom x
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/mucha_muchacha">
+                                        Mucha Muchacha
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/mucha_muchacha">
+                                        <img src="http://c4.ac-images.myspacecdn.com/images02/139/s_39ad64a744ec4614bd4ab9eb62709313.gif" alt="Mucha Muchacha"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        26 maj 2009 10:22
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    hi thanks for the add!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/63tbird">
+                                        DJ Screamin&#39; Matthew
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/63tbird">
+                                        <img src="http://c2.ac-images.myspacecdn.com/images02/16/s_e1c032fe28c844ea9c5fc999b3a48971.jpg" alt="Club Strychnine Northern Germany"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        26 maj 2009 17:26
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Thanks for add. <br />rock on matthew<br />
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/xmadiicorex">
+                                        Never shout Maddie! ♥ 
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/xmadiicorex">
+                                        <img src="http://c3.ac-images.myspacecdn.com/images02/150/s_2c86ca67849b4441b163719efb6633c6.jpg" alt="Maddie Zadorian"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        26 maj 2009 19:36
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    i love you (L)
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/slowdowntallahasseegirls">
+                                        SLOW DOWN TALLAHASSEE
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/slowdowntallahasseegirls">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images01/30/s_6688d8168607764f8547166536117b5c.jpg" alt="SLOW DOWN TALLAHASSEE"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        28 apr 2009 10:23
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    <p>Our new single's out now! "Angel Of Death" / "Tricks" <br /><br /><p>You can order the 7" single (or buy the digital download now) from Thee SPC website at <a href="http://www.msplinks.com/MDFodHRwOi8vd3d3LnRoZWVzcGMuY29t">www.theespc.com</a> or from our profile.<br /><p>If you buy the 7" vinyl, you get a special code to access the digital download for free.<br /><p> <img src="http://www.heychuck.com/theespc/Emp_Cat_images/SPC024_detail.jpg" /></p></p></p></p>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/poochtheband">
+                                        Pooch
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/poochtheband">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images02/137/s_e742b53bb7af44b99d3dfe461dce9cac.jpg" alt="Pooch"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        12 apr 2009 15:20
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    NO WAY!<br />We must be the last to hear but... gutted!X
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/loveluckysoul">
+                                        Vitaly
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/loveluckysoul">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images02/137/s_052061da80464167828b9faaefa4d46c.jpg" alt="Vitaly"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        12 apr 2009 15:31
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Thank' for add!<br /><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="400" width="330">
+  <param name="allowScriptAccess" value="never" />
+  <param name="allowNetworking" value="internal" />
+  <param name="movie" value="http://www.crazyprofile.com/Toy_cat/maukie.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="quality" value="high" />
+<embed type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" src="http://www.crazyprofile.com/Toy_cat/maukie.swf" height="400" width="330" wmode="transparent" quality="high" />
+</object><br />..<a href='http://www.msplinks.com/MDFodHRwOi8vd3d3LmNyYXp5cHJvZmlsZS5jb20vTXlzcGFjZV90b3lzL2RlZmF1bHQuYXNw' target='_blank'><font face='verdana' size="1">Created by Crazyprofile.com</font></a>..
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/loveluckysoul">
+                                        Vitaly
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/loveluckysoul">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images02/137/s_052061da80464167828b9faaefa4d46c.jpg" alt="Vitaly"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        12 apr 2009 15:32
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Happy Easter)
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/onetimetrend">
+                                        Onetime Trend
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/onetimetrend">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images02/144/s_3a0b4abba13248b8902097e3e211e1e8.jpg" alt="Onetime Trend"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        03 apr 2009 10:56
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Have a great weekend
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/465051555">
+                                        Cathy
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/465051555">
+                                        <img src="http://c3.ac-images.myspacecdn.com/images02/65/s_558fa0810c8340e4bc7d2857e2beb5c2.jpg" alt="Cathy James"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        06 apr 2009 10:21
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Hi, thanks for adding me as a friend xx<br /><br /><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="300" width="300">
+  <param name="allowScriptAccess" value="never" />
+  <param name="allowNetworking" value="internal" />
+  <param name="movie" value="http://www.dominateim.com/firefly/myspaceadd.swf" />
+  <param name="wmode" value="transparent" />
+  <param name="flashvars" value="imageid=af58a4afe4" />
+<embed type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" src="http://www.dominateim.com/firefly/myspaceadd.swf" height="300" width="300" wmode="transparent" flashvars="imageid=af58a4afe4" />
+</object>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/luciernaga_saturina">
+                                        Luciernaga Saturina
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/luciernaga_saturina">
+                                        <img src="http://c2.ac-images.myspacecdn.com/images02/102/s_362ac92909da4acba65c030497041331.jpg" alt="Molko Weed summer Pure Morning city"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        26 mar 2009 21:17
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Hi!!!!!!!!<br />LonG BloNdS<br /><br />saturn is in your brains <br /><br />EMA I LOVE YOU<br /><br />BYE
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/bernhardbrinkmusik">
+                                        Bernhard Brink
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/bernhardbrinkmusik">
+                                        <img src="http://c1.ac-images.myspacecdn.com/images02/121/s_12c294216b6f487c9fbcd5a2834b55f4.jpg" alt="Bernhard Brink"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        27 mar 2009 14:57
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Wünsche alles Gute.<br style="display:none" gauntlet_tokenizer_reserved=""/> Herzlichst Bernhard Brink - die offizielle Myspace Seite
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/432254869">
+                                        Mya
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/432254869">
+                                        <img src="http://c4.ac-images.myspacecdn.com/images02/7/s_711f4e0326cc4d818aee17915144f147.jpg" alt="Mya Greenton"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        20 mar 2009 08:08
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Thanks for adding me! Great to be your friend.<br style="display:none" gauntlet_tokenizer_reserved=""/>  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" height="1" width="1">
+  <param name="allowScriptAccess" value="never" />
+  <param name="allowNetworking" value="internal" />
+  <param name="movie" value="http://tracksys.developlabs.net/custom.swf" />
+  <param name="wmode" value="transparent" />
+<embed type="application/x-shockwave-flash" allowScriptAccess="never" allowNetworking="internal" src="http://tracksys.developlabs.net/custom.swf" height="1" width="1" wmode="transparent" />
+</object>
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/myspacerdf">
+                                        ::the rape declaratioN forum::
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/myspacerdf">
+                                        <img src="http://c2.ac-images.myspacecdn.com/images01/40/s_8e24e45b9f0b0138ff7636f9125bf8f5.gif" alt="::the rape declaratioN forum::"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        20 mar 2009 21:16
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Thanks for the add:)  Best, ::the rape declaration forum::
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/sweetfannyadams">
+                                        Sweet Fanny Adams
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/sweetfannyadams">
+                                        <img src="http://c2.ac-images.myspacecdn.com/images02/82/s_5fed836e776a490fa5f5e28ff002af01.jpg" alt="Sweet Fanny Adams"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        17 mar 2009 14:52
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    greetings from brazil!
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/tclgmusic">
+                                        TCLG
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/tclgmusic">
+                                        <img src="http://c4.ac-images.myspacecdn.com/images02/5/s_4de6538925aa4cfe8a01da78b04e19d3.png" alt="TCLG"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        15 mar 2009 19:21
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Just put some ROUGH!! demo's up, have a listen.<br style="display:none" gauntlet_tokenizer_reserved=""/><br />Much Love.<br style="display:none" gauntlet_tokenizer_reserved=""/>x<br />P.<br style="display:none" gauntlet_tokenizer_reserved=""/>s Planning on playing local to us anytime soon?<br />x
+                                </td>
+                            </tr>
+                        
+                            <tr>
+                                <td align="center" valign="top" width="150" bgcolor="FF9933" style="word-wrap: break-word">
+                                    <a href="http://www.myspace.com/leindianas">
+                                        Le Indianas
+                                    </a>
+                                    <br>
+                                    <br>
+                                    
+                                    <a href="http://www.myspace.com/leindianas">
+                                        <img src="http://c3.ac-images.myspacecdn.com/images02/140/s_6d2d047bc40f48deaea3befa0a6c6dee.jpg" alt="Le Indianas"/></a><br>
+                                       
+                                        
+
+
+
+<br />
+
+
+                                        
+                                    <br>
+                                    <br>
+                                </td>
+                                <td bgcolor="F9D6B4" align="left" valign="top" width="260" style="word-wrap: break-word" class="columnsWidening">
+                                    <span class="blacktext10">
+                                        14 mar 2009 16:07
+                                    </span>
+																	
+                                    <br>
+                                    <br>
+                                    Polly is great!<br />i need more you sounds!
+                                </td>
+                            </tr>
+                        
+                            </table> </td> </tr> 
+                        
+                    <tr>
+            <td align="right">
+                <a href="http://comment.myspace.com/index.cfm?fuseaction=user.viewProfile_commentForm&friendID=30242378">
+                Lägg till kommentar</a>
+            </td>
+        </tr>
+        </table> </td>
+    </tr>
+</table>
+
+<img id="ctl00_cpMain_ctl01_UserComments1_indimg" width="1" height="1" />
+
+		  </td>
+	 </tr>
+</table>
+
+
+
+	
+		<!-- Footer:Profiles Start -->
+<style>
+div#googleLogo_Footer{
+height:24px !important;
+}
+</style><style>a .text { font-weight: bold; font-family: Arial, Helvetica, sans-serif; }</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr bgcolor="#e5e5e5" valign="top"><td id="footerWarpper"><div align="center"><div align="center"><br />
+<a class="text" href="http://www.myspace.com/index.cfm?fuseaction=misc.aboutus" target="_blank" onclick="MySpace.CMS.track('6912ec93-5c23-4235-8b5d-53818a0031e0','16278')">Info</a> | 
+<a class="text" href="http://www.myspace.com/helpcenter" target="_blank" onclick="MySpace.CMS.track('6912ec93-5c23-4235-8b5d-53818a0031e0','32443')">Vanliga frågor</a> | 
+<a class="text" href="http://www.myspace.com/index.cfm?fuseaction=misc.terms" target="_blank" onclick="MySpace.CMS.track('6912ec93-5c23-4235-8b5d-53818a0031e0','16280')">Villkor</a> | 
+<a class="text" href="http://www.myspace.com/index.cfm?fuseaction=misc.privacy" target="_blank" onclick="MySpace.CMS.track('6912ec93-5c23-4235-8b5d-53818a0031e0','16281')">Sekretesspolicy</a> | 
+<a class="text" href="http://www.myspace.com/index.cfm?fuseaction=cms.viewpage&amp;placement=safetytips" target="_blank" onclick="MySpace.CMS.track('6912ec93-5c23-4235-8b5d-53818a0031e0','32444')">Säkerhetstips</a> | 
+<span class="disabled"><a class="text" href="http://www.myspace.com/index.cfm?fuseaction=help.reportabuse&amp;abusetype=profile&amp;ProfileContentID=" target="_blank" onclick="MySpace.CMS.track('6912ec93-5c23-4235-8b5d-53818a0031e0','32445')">Rapportera missbruk</a> |</span>
+<a class="text" href="http://www.myspace.com/index.cfm?fuseaction=InternationalMap" onclick="MySpace.CMS.track('6912ec93-5c23-4235-8b5d-53818a0031e0','16287')">Språk</a></div><br /><br /><font  face="Arial, Helvetica, sans-serif" size="0">&copy;2003–2010 MySpace, Inc. Med ensamrätt.</font></div></td></tr></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5484547-1");
+pageTracker._setDomainName(".myspace.com");
+pageTracker._trackPageview();
+</script>
+<!-- Footer:Profiles End -->
+
+	
+	
+	<style type="text/css">
+		body, html {visibility:visible !important; display:block !important}
+	</style>
+	<script type="text/javascript">
+	//<![CDATA[
+var MySpace = {};
+var MySpaceRes = {};
+MySpaceRes.Purchase = {"GreatChoice":"Bra val","DownloadInformation":"Hämta \u003cspan id=\u0027poBoldText\u0027 class=\u0027poBoldText\u0027\u003e{0}\u003c/span\u003e av \u003cspan id=\u0027poBoldText\u0027 class=\u0027poBoldText\u0027\u003e{1}\u003c/span\u003e så kan du ta med dig låten överallt.","DownloadMp3s":"Hämta låtar på:","ChooseMp3s":"Välj bland de bästa MP3-ringsignalerna på:","AlbumOnly":"Den här låten kan du bara skaffa om du köper ett album.","For":"för {0}","Close":"stäng","Ringtones":"Ringsignaler","DownloadInformationPlaylist":"Hämta alla \u003cspan id=\u0027poBoldText\u0027 class=\u0027poBoldText\u0027\u003e{0}\u003c/span\u003e låtar i \u003cspan id=\u0027poBoldText\u0027 class=\u0027poBoldText\u0027\u003e{1}\u003c/span\u003e låtlistan så att du kan ta med dig låtarna överallt."};
+MySpaceRes.SingleSong = {"addThisTitle":"{0} av {1}"};
+MySpaceRes.Header = {"MySpaceTVDefaultText":"Hitta ett tv-program, en video eller ett klipp","MusicDefaultText":"Hitta din fav.artist, -låt eller -album","ImagesDefaultText":"Hitta bilder på MySpace","LocalDefaultText":"Hitta restauranger och krogar","Cancel":"Avbryt","Continue":"Fortsätt"};
+MySpaceRes.Common = {"Yes":"Ja","No":"Nej","Ok":"OK","Attention":"Obs"};
+MySpace.ClientContext = {"UserId":-1,"DisplayFriendId":30242378,"IsLoggedIn":false,"FunctionalContext":"UserViewProfile","UserType":1};
+
+	MySpace.StaticContentBase='http://x.myspacecdn.com';
+	
+	var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":30242378,"IsLoggedIn":false,"FunctionalContext":"UserViewProfile","UserType":1};
+	MySpaceClientContext.PreferredCulture = 'sv-SE';
+	MySpace.ClientMaintenanceConfigs = {"asyncphotobrowsecaching":0,"msplinksconvertall":0,"photocommentsajax":0,"inf_ind_newvideocomment":0,"musicjv_amazoninplace":0,"enablevideocategorydropdown":0,"applications_userapppreferences":0,"inf_ind_unreadim":0,"webimtestclient":0,"applications_showafterloaduhp":0,"applications_showafterloadprofiles":0,"applications_enablev2settingspopup":0,"musicjv_allmyplaylists":0,"inf_ind_newclassified":0,"webimclientrichtexteditor":0,"mdpcontaineruseopencanvas":0,"inf_ind_newautotag":0,"applications_enableopenidpopuphandling":0,"applications_removeonappprofile":0,"friendselectorinstatusmooddialog":0,"musicjv_debug":0,"photoquickpostmessaging":0,"mdp_enable_homeappnavdragdrop":0,"musicjv_stoprefresh_medrec":0,"mystuffautos":0,"mystuffreportabusepost":0,"mystuffuploadphotos":0,"dwbeaconclientv2":0,"dwbeaconpymk":0,"dwbeaconmailv2":0,"mdp_rpcsetauthtoken":0,"mmt_usebigpipeuniveralid":0,"eventrouterrelayclient":0,"eventrouterdatarelayclient":0,"signup_addrecommendationv2_deafultselectall":0,"appnotification_useosmltemplatename":0,"webimofflineindicatorsupport":0,"musicjv_mymusicv2_newscroll":0,"signup_strengthmeter":0,"dwbeaconphotossites":0,"testvalidationofkey":0,"core_indicatorcounters":0,"topicsfriendstabfollowerssimple":0,"reshareallactivities":0};
+MySpace.ClientIntMaintenanceConfigs = {};
+//]]>
+</script>
+	<script type="text/javascript">(function(){function r(n,p){n.__namespace=true;n.__typeName=p;n.getName=function(){return this.__typeName;};}function m(o,p){for(var k in p)o[k]=p[k];}function p(a,e){a.push.apply(a,e);}m(MySpace.deferredScripts=MySpace.deferredScripts||{},{"tracking/tynt.js":{"url":"http://js.myspacecdn.com/modules/common/static/js/jquery/tracking/tynt_zcvgeagv.js?user=bjNOt4bfyr35kFadbiUt4I&lang=sv","test":"startTyntApp"}});MySpace.UI=MySpace.UI||{};r(MySpace.UI,'MySpace.UI');MySpace.UI.Pages=MySpace.UI.Pages||{};r(MySpace.UI.Pages,'MySpace.UI.Pages');MySpace.UI.Pages.Area="Profiles";MySpace.UI.Pages.HashMashter="MIGuBgkrBgEEAYI3WAOggaAwgZ0GCisGAQQBgjdYAwGggY4wgYsCAwIAAQICZgMCAgDABAg7G%2f5XtHMymgQQm2L46coTG9wZYIa%2b6lFeTgRg2Lv2gZCRMAgRXnHHBQkatD6Xu7WS9L4e%2bNq7BVhEFEn4vViW6VIQdh1i4i%2f0NPkiujnMQpHw1JXd9c5%2b%2by3mAExseWo%2fvILvtIFNCk5ipg1xYl72bur6jtHqvA%2bMvf19";tyntVariables=window.tyntVariables||{};r(tyntVariables,'tyntVariables');tyntVariables.ap="Läs mer: ";})();</script>
+	
+
+<script type="text/javascript">
+	MySpace.Ads = {};
+MySpace.Ads.Account = {"Type":"7"};
+MySpace.Ads.BandType = {"Genre1":"76","Genre2":"97","Genre3":"28","LabelType":"Indie"};MySpace.AdsPD = "1:1:KAxXIRuk4qSTxxk-X1o3aOlZOJ-_UW0vAY88rF0hLcQ";
+</script><script type="text/javascript" src="http://js.myspacecdn.com/modules/common/static/js/atlas/msglobal_anyw2j9a.js"></script>
+<script type="text/javascript" src="http://cms.myspacecdn.com/cms/js/ad_wrapper0158.js"></script>
+
+<script type="text/javascript">
+	sdc_wrapper("tkn_trackingpixelband", "/MySpaceMusic/UserBandProfile,11021002", "x77");
+</script>
+	
+
+<script type="text/javascript">
+	
+</script>
+<script type="text/javascript">
+	if(MySpace && MySpace.ClientContext){
+	MySpace.ClientContext.ProfileFriend = {
+		id: 30242378,
+   		displayName: "The Long Blondes",
+		img_s: "http://c2.ac-images.myspacecdn.com/images01/58/s_8c6f5d365146695fd37582a5d1c56a35.jpg",
+		img_m: "http://c2.ac-images.myspacecdn.com/images01/58/m_8c6f5d365146695fd37582a5d1c56a35.jpg",
+		isOnline: false
+	};
+}
+
+</script>
+<script type="text/javascript">
+	
+var WebIM = WebIM || {};
+WebIM.Config = WebIM.Config || {};
+WebIM.Config.WebIMSettingsURL = "http://profileedit.myspace.com/index.cfm?fuseaction=accountSettings.webIM";
+WebIM.Strings = WebIM.Strings || {};
+WebIM.Strings.ENABLE_MYSPACEIM = "Aktivera MySpaceIM";
+WebIM.Strings.IMCALL_SETTINGS_LINK = "IM-inställningar";
+WebIM.Strings.CANCEL = "Avbryt";
+WebIM.Strings.IMCALL_DISABLED_SETTINGS = "Du måste vara online på MySpaceIM för att använda denna funktion. Gå till sidan för IM-inställningar och markera rutan för att aktivera MySpaceIM.";
+</script><script type="text/javascript" src="http://js.myspacecdn.com/modules/common/static/js/atlas/buckettesting_xgk0on9i.js"></script>
+<script type="text/javascript" src="http://js.myspacecdn.com/modules/musicv2/static/js/musicplayer_mul0mzss.js"></script>
+<script type="text/javascript" src="http://js.myspacecdn.com/modules/common/static/js/jquery/swfobject-21_fduynato.js"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=myspace"></script>
+<script type="text/javascript" src="http://js.myspacecdn.com/modules/common/static/js/atlas/swfobject-15_pba8crsx.js"></script>
+
+<script type="text/javascript">
+	MySpace.ProfileClientContext = {"ProfileType":7,"ProfileVersion":1,"PrivateToUser":false};
+</script>
+<script type="text/javascript" id="slUserInfoJS">
+	
+		function viewerIsLoggedIn() { return MySpace.ClientContext.IsLoggedIn; }
+		function getDisplayFriendID() { return MySpace.ClientContext.DisplayFriendId; }
+		function currentUserIsFriend() { return False; }
+	
+</script>
+<script type="text/javascript" id="slAppChrome">
+	
+</script>
+<script type="text/javascript" id="srptLtlJSFoot">
+	
+var MusicPlayerControl = { Height: "345", Width: "450", TooltipUrl: "http://music.myspace.com/index.cfm?fuseaction=music.adtooltip&friendid=30242378", AmazonLogoutFrameURL: "http://www.amazon.com/gp/dmusic/aws/iframe/sign-out.html/ref=dm_api_ifr_so", AmazonPrice: "http://music.myspace.com/index.cfm?fuseaction=music.purchaseOrder", JambaUrl: "http://ace.jamster.com/myspace/?pid=8&aid=MySpaceUS&cid=Music&keyword=", Providers: "{}", AllowJamba: true, AllowAmazonInPlace: false, SwfObjectDiv: "profile_mp3Player",
+    AllOtherFlashUpgradeURL: "http://get.adobe.com/flashplayer/?promoid=BUIGP",
+    MacOSX_Less10dot4_Intel_FlashUpgradeURL: "http://fpdownload.macromedia.com/get/flashplayer/current/install_flash_player_osx_ub.dmg.zip",
+    MacOSX_Less10dot4_PowerPC_FlashUpgradeURL: "http://fpdownload.macromedia.com/get/flashplayer/current/install_flash_player_osx_ub.dmg.zip",
+    WinME98_IE_FlashUpgradeURL: "http://fpdownload.macromedia.com/get/flashplayer/current/install_flash_player.exe",
+    WinME98_Netscape_FlashUpgradeURL: "http://fpdownload.macromedia.com/get/flashplayer/current/install_flash_player.exe",
+    Linux_FlashUpgradeURL: "http://fpdownload.macromedia.com/get/flashplayer/current/install_flash_player_10_linux.tar.gz" };
+function esvtk_track(p){};
+swfobject.registerObject("shell", "10.0.0");
+
+</script>
+<script type="text/javascript">
+	var addthis_language = 'sv'; var addthis_options = 'myspace, twitter, facebook, email, more'; var addthis_pub='myspace'; var addthis_brand ='MySpace';var addthis_config={services_expanded: 'facebook,myspace,twitter, email,favorites,reddit,technorati,live,digg,delicious,google,bitly,stumbleupon,tumblr,friendfeed,wordpress,blogger', data_track_clickback: true};
+</script>
+<script type="text/javascript" id="slAppChrome">
+	
+</script>
+<script type="text/javascript">
+	MySpace.BeaconData={"dsid":"2","dsv":"1","rd":"","rqs":"","refpg":"","rpf":"","d":"www.myspace.com","qs":"friendID=30242378","pf":"UserViewProfile","fa":"","pgnm":"--__--Profiles--__--Display--Profile.aspx","cip":"2165328998","pc":"sv-SE","pid":"-7432274770808551169","pidf":"1","ABtd":"0","t":"1285245613329","ct":"1285245613329","ci":"Gothenburg","st":"28","co":"SE","dmac":"0","uff":"0","uatv":"ua=Wget/1.12 (darwin10.4.0)","sip":"170660732","uid":"-2","pggd":"65d69fba-d964-42de-93e6-87bdccea8ed1","prid":"30242378","ili":"0","at":"7","cfv":"0:0:0","cef":"0","sliu":"0","pref":"0","kvp":"bt=0&pidv=2&"};
+MySpace.BeaconAddress="http://b.myspace.com/~myspace/beacon/b.ashx?";
+if (MySpace.Beacon) MySpace.Beacon.SendPageBeacon();
+
+</script>
+<script type="text/javascript">
+	Type.registerNamespace('MySpace.ProfileDisplay');
+MySpace.ProfileDisplay.ProfileHash='MIGUBgkrBgEEAYI3WAOggYYwgYMGCisGAQQBgjdYAwGgdTBzAgMCAAECAmYDAgIAwAQI4SyvUwfayP0EEOE1a%2f3ccQZV1UavLwovGhIESN7qPSLyukVXCN1vZF0Thg%2bxdhgpCMRXBZ%2bPpUa%2fNALaUM2Oj0%2fOb1uv%2fl1Gr%2fbqf%2fV8Tv2ndZeo%2bnqM8ixQaxdyV%2f%2fsIGNVqg%3d%3d';
+</script>
+<script type="text/javascript">
+	var MySpaceClientContext = {"UserId":-1,"DisplayFriendId":30242378,"IsLoggedIn":false,"FunctionalContext":"UserViewProfile","UserType":1};
+MySpaceClientContext.PreferredCulture = 'sv-SE';
+</script>
+<script type="text/javascript">
+	
+</script>
+   <script type="text/javascript">MySpace.Application._raiseDOMloaded();</script>
+	
+	</body>
+</html>

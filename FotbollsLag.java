@@ -2,8 +2,6 @@ class FotbollsLag implements Comparable<FotbollsLag>{
   /* Lagets namn */
   private String team;
   
-  
-  
   /* Antalet spelare i laget */
   private int players;
   

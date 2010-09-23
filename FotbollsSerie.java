@@ -181,6 +181,7 @@ class FotbollsSerie {
     /* Om de matchade lagen hittades, annars så visas no match*/
     if(result){
       JOptionPane.showMessageDialog(null, "Done");
+      this.sortTabell();
     } else{
       JOptionPane.showMessageDialog(null, "No match");
     }
@@ -191,7 +192,7 @@ class FotbollsSerie {
     FotbollsLag buffer;
     int max = teams.size() - 1;
     boolean swapped;
-    do {
+    do  {
       swapped = false;
       for (int i = 0; i < max; i++) {
         if (teams.get(i+1).compareTo(teams.get(i)) == 1) {
@@ -202,7 +203,6 @@ class FotbollsSerie {
         }
       } 
     } while (swapped);
-    
   }
   
   /* En sträng-representation av alla fotbollslag i serien */

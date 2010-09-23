@@ -191,18 +191,17 @@ class FotbollsSerie {
     FotbollsLag buffer;
     int max = teams.size() - 1;
     boolean swapped;
-    do {
-      swapped = false;
-      for (int i = 0; i < max; i++) {
-        if (teams.get(i+1).compareTo(teams.get(i)) == 1) {
-          buffer = teams.get(i+1);
-          teams.set(i+1, teams.get(i));
-          teams.set(i, buffer);
-          swapped = true;
-        }
-      } 
+    do  {
+        swapped = false;
+        for (int i = 0; i < max; i++) {
+            if  (teams.get(i+1).compareTo(teams.get(i)) == 1) {
+                buffer = teams.get(i+1);
+                teams.set(i+1, teams.get(i));
+                teams.set(i, buffer);
+                swapped = true;
+            }
+        } 
     } while (swapped);
-    
   }
   
   /* En sträng-representation av alla fotbollslag i serien */
